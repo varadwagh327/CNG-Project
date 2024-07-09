@@ -1,0 +1,22 @@
+{
+  "name": "cng-project",
+  "version": "1.0.0",
+  "description": "Hii, This is Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varadwagh327/CNG-Project.git"
+  },
+  "author": "varad wagh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varadwagh327/CNG-Project/issues"
+  },
+  "homepage": "https://github.com/varadwagh327/CNG-Project#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
